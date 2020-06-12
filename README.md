@@ -1,2 +1,2 @@
 # motifjs--demo
-Demo project using `motifjs`
+Demo project using [`motifjs`](https://github.com/Skaant/motifjs)
